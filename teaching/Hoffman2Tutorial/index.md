@@ -17,6 +17,7 @@ Readings:
 
 Workshop slides:
 
-| Number | Workshop | Note |
+| Course Number | Workshop | Note |
 |:-----------|:-----------|:------------|
-| 1 | How to Submit R job \[[slides html](./slides/submittingJobs.html)\] | Official site:  \[[Hoffman2](https://www.hoffman2.idre.ucla.edu)\] |
+| 1 | How to Submit R job \[[slides html](./slides/submittingJobs.html)\] | Official site: \[[Hoffman2](https://www.hoffman2.idre.ucla.edu)\] |
+| 2 | How to use Jupyter-notebook on Hoffman2 \[[slides html](./slides/jupyter-notebook.html)\] | Official site:  \[Jupyter-notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)\] |
