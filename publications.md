@@ -11,6 +11,8 @@ Please feel free to email me <lizexuan@g.ucla.edu> if you have any comments.
 
 **Li, C. Z.**, Haghani, A., Robeck, T. R., Villar, D., Lu, A. T., Zhang, J., ... & Horvath, S. (2021). Epigenetic predictors of maximum lifespan and other life history traits in mammals. bioRxiv. [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.05.16.444078v1.abstract)
 
+Kordowitzki, P., Haghani, A., Zoller, J. A., **Li, C. Z.**, Raj, K., Spangler, M. L., & Horvath, S. (2021). Epigenetic clock and methylation study of oocytes from a bovine model of reproductive aging. [Aging Cell](https://onlinelibrary.wiley.com/doi/abs/10.1111/acel.13349), 20(5), e13349.
+
 Kordowitzki, P., Haghani, A., Zoller, J. A., **Li, C. Z.**, Raj, K., Spangler, M. L., & Horvath, S. (2020). Epigenetic clock and methylation study of oocytes from a bovine model of reproductive aging. [bioRxiv Preprint](https://doi.org/10.1101/2020.09.10.290056).
 
 Robeck, T. R., Fei, Z., Lu, A. T., Haghani, A., Jourdain, E., Zoller, J. A., ... & Horvath, S. (2021). Multi-species and multi-tissue methylation clocks for age estimation in toothed whales and dolphins. Communications biology, 4(1), 1-11. [Communications biology](https://www.nature.com/articles/s42003-021-02179-x)

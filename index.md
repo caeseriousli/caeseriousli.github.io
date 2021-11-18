@@ -2,7 +2,7 @@
 
 ---
 
-I am a second year Ph.D. student in [Department of Biostatistics](https://biostat.ucla.edu), at [University of California, Los Angeles](https://www.ucla.edu). I conduct research with Dr. Steve Horvath, [Department of Human Genetics, School of Medicine](https://medschool.ucla.edu/human-genetics), [UCLA](https://www.ucla.edu).
+I am a Ph.D. candidate of [Biostatistics](https://biostat.ucla.edu), [University of California, Los Angeles](https://www.ucla.edu). I conduct research with Dr. Steve Horvath, [Department of Human Genetics, School of Medicine](https://medschool.ucla.edu/human-genetics), [UCLA](https://www.ucla.edu).
 
 I am interested in high dimensional statistical models, machine learning algorithms, variable selections, and their applications to DNA methylation data.
 
