@@ -5,6 +5,8 @@ title: Publication
 
 ### Publications
 
+Complete and updated list of publications: [Link - Google Scholar](https://scholar.google.com/citations?user=pGrR31gAAAAJ&hl=en), and [Link - Research Gate](https://www.researchgate.net/profile/Caesar-Li-2).
+
 Please feel free to email me <lizexuan@g.ucla.edu> if you have any comments. 
 
 **Li, C. Z.**, Kawaguchi, E. S., & Li, G. (2021). A New ℓ 0-Regularized Log-Linear Poisson Graphical Model with Applications to RNA Sequencing Data. Journal of Computational Biology, 28(9), 880-891. [Computational Biology](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0558)
