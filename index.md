@@ -10,7 +10,7 @@ I am interested in high dimensional statistical models, machine learning algorit
 
 ### Current Projects
 
-[Mammalian DNA Methylation Array](https://doi.org/10.1101/2021.01.07.425637)
+[Mammalian DNA Methylation Array](https://doi.org/10.1038/s41467-022-28355-z)
 <img src="images/chip_paper.png?raw=true"/>
 
 ---
