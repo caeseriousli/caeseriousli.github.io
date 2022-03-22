@@ -7,7 +7,7 @@ title: Julia's Turing.jl
 
 Julia's Turing.jl Bayesian package Slides (being updated)
 
-Hoffman2 Official Documentations: <https://turing.ml/stable/>
+Turing.jl package Official Documentations: <https://turing.ml/stable/>
 
 Workshop slides:
 
