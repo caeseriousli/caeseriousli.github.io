@@ -13,7 +13,7 @@ Workshop slides:
 
 | Course Number | Workshop | Note |
 |:-----------|:-----------|:------------|
-| 1 | Simply Guide \[[slides](./slides/Julia_OneArmTrial_BinaryEndpoint.html)\] | One page guide to learn Turing.jl |
+| 1 | One-arm trail example \[[slides](./slides/Julia_OneArmTrial_BinaryEndpoint.html)\] | One page guide to learn Turing.jl |
 | 2 | Coming soon | Coming soon |
 
 Useful readings:  
