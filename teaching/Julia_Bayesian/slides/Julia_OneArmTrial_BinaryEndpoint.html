@@ -13114,11 +13114,29 @@ $$P(p|data) = \frac{P(data|p)P(p)}{P(data)}$$$$P(p|data) \propto Binomial(x; n, 
 <span class="n">p</span> <span class="o">=</span> <span class="mf">0.6</span>
 <span class="c">##</span>
 
+
+<span class="c">## This is it. All we have to do here is to define a macro function for Turing.jl</span>
+<span class="c">## data are passed in as an argument, in this case, x - number of success. </span>
+<span class="c"># n is passed in as a parameter - number of trials</span>
+<span class="c">## Inside the function we simply define and write out the distributions as we would by hand.</span>
+<span class="c">## In this case we define the prior as a m ~ Uniform() distribution</span>
+<span class="c">## and data x is binomial given the prior</span>
 <span class="nd">@model</span> <span class="k">function</span> <span class="n">binaryTrial</span><span class="p">(</span><span class="n">x</span><span class="o">::</span><span class="kt">Vector</span><span class="p">{</span><span class="kt">Int64</span><span class="p">},</span> <span class="n">n</span><span class="o">::</span><span class="kt">Int64</span><span class="p">)</span> 
     <span class="n">m</span> <span class="o">~</span> <span class="n">Uniform</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
     <span class="n">x</span> <span class="o">~</span> <span class="n">Binomial</span><span class="p">(</span><span class="n">n</span><span class="p">,</span> <span class="n">m</span><span class="p">)</span>
-    
 <span class="k">end</span>
+<span class="c">## Because of this intuitive way of defining distributions in Turing.jl, we can go wild and define complex</span>
+<span class="c">## layers or priors, like so, </span>
+<span class="cm">#=</span>
+<span class="cm"># Define a simple Normal model with unknown mean and variance.</span>
+<span class="cm">@model function gdemo(x, y)</span>
+<span class="cm">    s² ~ InverseGamma(2, 3)</span>
+<span class="cm">    m ~ Normal(0, sqrt(s²))</span>
+<span class="cm">    x ~ Normal(m, sqrt(s²))</span>
+<span class="cm">    y ~ Normal(m, sqrt(s²))</span>
+<span class="cm">end</span>
+<span class="cm"># (I will showcase more complex cases like this in the next slide deck)</span>
+<span class="cm">=#</span>
 
 <span class="c">## Simulate trial data</span>
 <span class="c"># this seed will give data=7 successes</span>
@@ -13127,8 +13145,11 @@ $$P(p|data) = \frac{P(data|p)P(p)}{P(data)}$$$$P(p|data) \propto Binomial(x; n, 
 <span class="c"># generating just one sample, since one trial is the </span>
 <span class="c"># aggregation of multiple Bernoulli -&gt; one binomial</span>
 <span class="n">data</span> <span class="o">=</span> <span class="n">rand</span><span class="p">(</span><span class="n">d</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+
+<span class="c">## Complete the function by passing the data into it. Now the object &quot;model&quot; contains all model specifications</span>
 <span class="n">model</span> <span class="o">=</span> <span class="n">binaryTrial</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">N</span><span class="p">)</span>
 
+<span class="c">## In the next step below we just sample the posterior given a specified sampler</span>
 <span class="c"># Sample four chains using multiple threads, each with 1000 samples.</span>
 <span class="c"># Using No-U-Turn Sampler (NUTS), an extension of Hamilton Monte Carlo (HMC)</span>
 <span class="c"># Storing results into </span>
