@@ -1,19 +1,23 @@
 ---
 layout: default
-title: Publication
+title: Select Publications
 ---
 
-### Publications
+Full publication list: Google Scholar: [Link - Google Scholar](https://scholar.google.com/citations?user=pGrR31gAAAAJ&hl=en), and [Link - Research Gate](https://www.researchgate.net/profile/Caesar-Li-2).
 
-Google Scholar: [Link - Google Scholar](https://scholar.google.com/citations?user=pGrR31gAAAAJ&hl=en), and [Link - Research Gate](https://www.researchgate.net/profile/Caesar-Li-2).
+---
 
 Ordered by my first author articles, publication year, and then last name of the first author.
 
-Please feel free to email me <lizexuan@g.ucla.edu> if you have any comments. 
+Haghani, A., **Li, C. Z.**, Robeck, T. R., Zhang, J., Lu, A. T., Ablaeva, J., ... & Singh, K. (2023). DNA methylation networks underlying mammalian traits. Science, 381(6658), eabq5693. [Science](https://www.science.org/doi/abs/10.1126/science.abq5693)  - (equal contributor second author)
+
+**Li, C. Z.**, Haghani, A., Robeck, T. R., Villar, D., Lu, A. T., Zhang, J., ... & Horvath, S. (2021). Epigenetic predictors of maximum lifespan and other life history traits in mammals. bioRxiv. [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.05.16.444078v1.abstract) - (Submitting)
 
 **Li, C. Z.**, Kawaguchi, E. S., & Li, G. (2021). A New ℓ 0-Regularized Log-Linear Poisson Graphical Model with Applications to RNA Sequencing Data. Journal of Computational Biology, 28(9), 880-891. [Computational Biology](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0558)
 
-**Li, C. Z.**, Haghani, A., Robeck, T. R., Villar, D., Lu, A. T., Zhang, J., ... & Horvath, S. (2021). Epigenetic predictors of maximum lifespan and other life history traits in mammals. bioRxiv. [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.05.16.444078v1.abstract)
+Lu, A. T., Fei, Z., Haghani, A., Robeck, T. R., Zoller, J. A., Li, C. Z., ... & Singh, K. (2023). Universal DNA methylation age across mammalian tissues. Nature aging, 3(9), 1144-1166. [Nature Aging](https://www.nature.com/articles/s43587-023-00462-6)
+
+Horvath, S., Lu, A. T., Haghani, A., Zoller, J. A., Li, **C. Z.**, Lim, A. R., ... & Ostrander, E. A. (2022). DNA methylation clocks for dogs and humans. Proceedings of the National Academy of Sciences, 119(21), e2120887119.
 
 Arneson, A., Haghani, A., Thompson, M. J., Pellegrini, M., Kwon, S. B., Vu, H. T., ..., **Li, C. Z.**, ... & Horvath, S. (2021). A mammalian methylation array for profiling methylation levels at conserved sequences. [Nature Communications](https://doi.org/10.1038/s41467-022-28355-z), 2022-02.
 
