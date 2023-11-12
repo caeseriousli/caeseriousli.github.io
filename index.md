@@ -11,21 +11,21 @@ I enjoy working with high dimensional modeling, sparse modeling, machine learnin
 ### Project Highlights
 
 
-<p style="font-size:18px"> **DNA methylation networks underlying mammalian traits** 
-<https://www.science.org/doi/10.1126/science.abq5693> </p>
+**DNA methylation networks underlying mammalian traits** 
+<https://www.science.org/doi/10.1126/science.abq5693> 
 
 <img src="images/science_paper.jpg?raw=true" width="500"/>
 
 ---
 
-<p style="font-size:18px"> **Mammalian DNA Methylation Array** 
-<https://doi.org/10.1038/s41467-022-28355-z> </p>
+**Mammalian DNA Methylation Array** 
+<https://doi.org/10.1038/s41467-022-28355-z>
 
 <img src="images/chip_paper.png?raw=true" width="500"/>
 
 ---
 
-<p style="font-size:18px"> **Epigenetic Predictors of Mammalian Lifespans** (Submitting)</p>
+**Epigenetic Predictors of Mammalian Lifespans** (Submitting)
 
 <img src="images/mammal_predictors.jpg?raw=true" width="500"/>
 
