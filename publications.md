@@ -9,9 +9,9 @@ Full publication list: Google Scholar: [Link - Google Scholar](https://scholar.g
 
 Ordered by my first author articles, publication year, and then last name of the first author.
 
-Haghani, A., **Li, C. Z.**, Robeck, T. R., Zhang, J., Lu, A. T., Ablaeva, J., ... & Singh, K. (2023). DNA methylation networks underlying mammalian traits. Science, 381(6658), eabq5693. [Science](https://www.science.org/doi/abs/10.1126/science.abq5693)  - (equal contributor second author)
+**Li, C. Z.**, Haghani, A., Yan, Q., Lu, A. T., Zhang, J., Fei, Z., ... & Horvath, S. (2024). Epigenetic predictors of species maximum life span and other life-history traits in mammals. [Science Advances](https://www.science.org/doi/abs/10.1126/sciadv.adm7273), 10(23), eadm7273.
 
-**Li, C. Z.**, Haghani, A., Robeck, T. R., Villar, D., Lu, A. T., Zhang, J., ... & Horvath, S. (2021). Epigenetic predictors of maximum lifespan and other life history traits in mammals. bioRxiv. [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.05.16.444078v1.abstract) - (Submitting)
+Haghani, A., **Li, C. Z.**, Robeck, T. R., Zhang, J., Lu, A. T., Ablaeva, J., ... & Singh, K. (2023). DNA methylation networks underlying mammalian traits. Science, 381(6658), eabq5693. [Science](https://www.science.org/doi/abs/10.1126/science.abq5693)  - (equal contributor second author)
 
 **Li, C. Z.**, Kawaguchi, E. S., & Li, G. (2021). A New ℓ 0-Regularized Log-Linear Poisson Graphical Model with Applications to RNA Sequencing Data. Journal of Computational Biology, 28(9), 880-891. [Computational Biology](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0558)
 
